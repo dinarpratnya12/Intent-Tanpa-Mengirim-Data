@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intens Tanpa Mengirim Data</string>
+    <string name="title_activity_go_food">GoFood</string>
+    <string name="action_settings">Settings</string>
+</resources>
